@@ -1,6 +1,6 @@
 Grafica Brackets Icons
 ==============
-This extension adds file icons to the brackets file tree, and it works with brackets' new react-based file tree. I can take no credit for this plugin as it's based solely on the work of [ivogabe](https://github.com/ivogabe) and [drewbkoch](https://github.com/drewbkoch). Basically I took the code from Ivo's original, and changed out the icons he used for the icons that Drew used. Check out the original repositories at: [Brackets-Icons](https://github.com/ivogabe/Brackets-Icons) and [Brackets-File-Icons](https://github.com/drewbkoch/Brackets-File-Icons)
+This extension adds file icons to the brackets file tree, and it works with brackets' new react-based file tree. I can take no credit for this plugin as it's based solely on the work of [ivogabe](https://github.com/ivogabe) and [drewbkoch](https://github.com/drewbkoch). Many, many thanks to both gentlemen. Basically I took the code from Ivo's original, and changed out the icons he used for the icons that Drew used. Check out the original repositories at: [Brackets-Icons](https://github.com/ivogabe/Brackets-Icons) and [Brackets-File-Icons](https://github.com/drewbkoch/Brackets-File-Icons)
 
 Supported files
 ---------------
